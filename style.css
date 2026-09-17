@@ -93,9 +93,15 @@ p {
   color: white;
 }
 
+<<<<<<< HEAD
 .portfolio {
   background: linear-gradient(45deg, #9527c8, #3234c0);
   color: #ffffff;
+=======
+.game {
+  background: linear-gradient(45deg, #f8f2da, #8b897e);
+  color: black;
+>>>>>>> 427c45b1293ea5b15d594d958e98bf338aa9c8a0
 }
 
 .profile-header {
